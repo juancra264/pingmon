@@ -1,1 +1,1 @@
-# **PingMon**
+# PingMon

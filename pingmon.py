@@ -81,4 +81,4 @@ if __name__ == "__main__":
             print("\npingmon stopped by keyboard interrupt")
             sys.exit(0)
         except SystemExit:
-            os._exiºt(0)
+            os._exit(0)
